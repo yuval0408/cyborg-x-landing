@@ -1,0 +1,6 @@
+{
+  "name": "CYBORG-X Landing Page",
+  "description": "Premium interactive landing page prototype for CYBORG-X, a futuristic cybernetics company with high-fidelity animations, dashboard telemetry, and interactive timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
